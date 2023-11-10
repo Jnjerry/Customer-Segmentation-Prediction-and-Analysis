@@ -32,6 +32,7 @@ The output is to be used for a one off campaign and therefore there was no need 
 
 ![image](https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/e335e6f5-ff7e-423f-bc93-31d6bb768358)
 
+![image](https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/6622605e-0589-41a7-8e47-8b4b44824c7f)
 
 
 
