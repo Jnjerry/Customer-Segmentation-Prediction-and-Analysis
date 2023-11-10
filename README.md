@@ -30,7 +30,8 @@ The output is to be used for a one off campaign and therefore there was no need 
 ![image](https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/9f7262fb-bf76-4d16-86aa-692c764316f0)
 ![image](https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/3a309145-ce18-4b20-8724-78db332669f6)
 
-![image](https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/64cb3734-8d12-4454-932e-1ed190757f24)
+![image](https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/e335e6f5-ff7e-423f-bc93-31d6bb768358)
+
 
 
 
