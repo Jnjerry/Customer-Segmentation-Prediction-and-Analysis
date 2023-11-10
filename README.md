@@ -20,6 +20,10 @@ The output is to be used for a one off campaign and therefore there was no need 
 - Feature generation to have the following features
 <img width="464" alt="image" src="https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/2157d9d8-609f-4c9f-8b9e-f3cea066c841">
  
+## Feature Scaling
+
+## Segmentation using DBSCAN
+![image](https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/792bdb17-f82c-4e72-ba27-29f41d781416)
 
 
 
