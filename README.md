@@ -23,9 +23,11 @@ The output is to be used for a one off campaign and therefore there was no need 
 ## Feature Scaling
 
 ## Segmentation using DBSCAN(Results)
-<img width="785" alt="image" src="https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/9cdb5d69-e3c4-47c5-8bb3-4a50d1a7812d">
+![image](https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/52cfca45-0353-4a85-95b1-17a0d23ff34c)
 
-![image](https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/1d96ffca-1d32-4f52-ad04-9d4d3bf159e2)
+
+![image](https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/cf661301-db8c-4c60-8ccf-8df12cfc9ee4)
+
 
 
 
