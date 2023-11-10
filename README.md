@@ -25,6 +25,9 @@ The output is to be used for a one off campaign and therefore there was no need 
 ## Segmentation using DBSCAN(Results)
 <img width="785" alt="image" src="https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/9cdb5d69-e3c4-47c5-8bb3-4a50d1a7812d">
 
+<img width="731" alt="image" src="https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/9d719db7-b2b7-46f6-ba00-0bf70bb3ab4d">
+
+
 
 
 
