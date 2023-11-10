@@ -34,8 +34,9 @@ The output is to be used for a one off campaign and therefore there was no need 
 
 ![image](https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/6622605e-0589-41a7-8e47-8b4b44824c7f)
 
+## PowerBI Dashboard
 
-
+<img width="662" alt="image" src="https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/235da30d-8b4c-4ae3-82a7-4dd191772f11">
 
 
 
