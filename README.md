@@ -11,6 +11,15 @@ The output is to be used for a one off campaign and therefore there was no need 
 
 <img width="328" alt="image" src="https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/cd0e72f5-d743-42ec-a023-2277a590a40f">
 
+## Data Cleaning
+- Dropped rows without customer IDs(These cannot be imputed)
+- Dropped Duplicates
+
+## Feature Engineering
+- Drop the Description column
+- Feature generation to have the following features
+<img width="464" alt="image" src="https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/2157d9d8-609f-4c9f-8b9e-f3cea066c841">
+ 
 
 
 
