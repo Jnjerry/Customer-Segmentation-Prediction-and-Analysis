@@ -27,6 +27,8 @@ The output is to be used for a one off campaign and therefore there was no need 
 
 <img width="731" alt="image" src="https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/9d719db7-b2b7-46f6-ba00-0bf70bb3ab4d">
 
+<img width="773" alt="image" src="https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/4f13d04d-3f82-4134-acc3-1c7d61f68047">
+
 
 
 
