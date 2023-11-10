@@ -27,7 +27,8 @@ The output is to be used for a one off campaign and therefore there was no need 
 ---
 ![image](https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/cf661301-db8c-4c60-8ccf-8df12cfc9ee4) 
 
-![image](https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/724698d6-6a1c-405e-916a-60cc0ff4c382)
+![image](https://github.com/Jnjerry/Customer-Segmentation-Prediction-and-Analysis/assets/19590985/9f7262fb-bf76-4d16-86aa-692c764316f0)
+
 
 
 
